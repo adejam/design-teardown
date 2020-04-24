@@ -48,9 +48,9 @@ copy the path to [index.html](https://adejam.github.io/design-teardown/index.htm
 
    - CSS Arial and Sans-serif Font Family
 
-- Linter
+- [stylint](https://stylelint.io/)
 
-- NPM
+- [NPM](https://www.npmjs.com/)
 
 
 ## Assignment Link
@@ -79,6 +79,16 @@ Give a :star2: if you like this project!
 
 ## Acknowledgments
 - [@bolah2009](http://github.com/bolah2009)
+
+- [vanseodesign.com](https://web.archive.org/web/20170628134444/http://www.vanseodesign.com/blog/wp-content/uploads/2009/12/visual-hierarchy-compared.png)
+
+- [The Odin ProJect](https://www.theodinproject.com/courses/html5-and-css3/lessons/design-teardown)
+
+- [Smashing Magazine](https://www.smashingmagazine.com/)
+
+- [W3c](https://www.w3.org/)
+
+- [fonts.google.com/](https://fonts.google.com/)
 
 ## :memo: License
 
