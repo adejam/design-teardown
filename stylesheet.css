@@ -58,7 +58,7 @@ section {
   text-decoration: none;
 }
 
-.ls_none{
+.ls_none {
   list-style: none;
 }
 
@@ -301,26 +301,26 @@ section {
   margin: 10px;
 }
 
-.footer{
-padding: 50px;
+.footer {
+  padding: 50px;
 }
 
-.footer_h{
+.footer_h {
   margin: 30px;
 }
 
-.footer ul{
+.footer ul {
   justify-content: center;
 }
-.footer li{
+
+.footer li {
   margin-right: 20px;
 }
 
-.footer_div{
+.footer_div {
   margin: 60px;
 }
 
-.footer p{
+.footer p {
   margin: 8px;
 }
-
