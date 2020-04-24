@@ -1,7 +1,7 @@
 # Design Teardown
-The main objective of this project is to build a grayscale heat map of [Smashing Magazine Homepage](https://www.smashingmagazine.com/) that indicates which elements have the greatest weight in the visual hierarchy using HTML and CSS.
+The main objective of this project is to build a grayscale heat map of [Smashing Magazine Homepage](https://www.smashingmagazine.com/) to demonstrate the visual hierarchy of the elements using HTML and CSS.
 
-The project uses semantic html and CSS positioning and floating elements. CSS flexbox in conjunction with CSS float property is used for effective positioning of the elements.CSS Arial and Sans-serif Font Family were also used.
+The project uses semantic html and CSS positioning and floating elements. CSS flexbox in conjunction with CSS float property is used for effective positioning of the elements.CSS Arial and Sans-serif Font Family were also used to demostrate CSS Typography.
 
 This project demonstrates visual hierarchy, typography and design principles.
 
@@ -67,7 +67,7 @@ copy the path to [index.html](https://adejam.github.io/design-teardown/index.htm
 ### Adeleye Jamiu
 - Github: [@adejam](http://github.com/adejam)
 - Twitter: [@adeleye_oj](https://twitter.com/Adeleye_oj)
-- LinkedIn: [@adeleye-jamiu](https://linkedin.com/in/adeleye-jamiu-6747061a3)
+- LinkedIn: [@adeleye-jamiu](https://linkedin.com/in/adeleye-jamiu)
 
 ## :handshake: Contributing
 Contributions, issues and feature requests are welcome!
