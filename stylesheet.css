@@ -58,6 +58,10 @@ section {
   text-decoration: none;
 }
 
+.ls_none{
+  list-style: none;
+}
+
 .ta_center {
   text-align: center;
 }
@@ -296,3 +300,27 @@ section {
 .gud {
   margin: 10px;
 }
+
+.footer{
+padding: 50px;
+}
+
+.footer_h{
+  margin: 30px;
+}
+
+.footer ul{
+  justify-content: center;
+}
+.footer li{
+  margin-right: 20px;
+}
+
+.footer_div{
+  margin: 60px;
+}
+
+.footer p{
+  margin: 8px;
+}
+
