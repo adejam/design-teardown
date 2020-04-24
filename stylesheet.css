@@ -191,21 +191,14 @@ section {
   margin: 20px;
 }
 
-.sub_article_div {
-  margin: 30px;
-}
-
-.sub_article_header {
+.sub_article_header,
+.sub_article_h2{
   margin-bottom: 1em;
 }
 
 .time {
   margin-bottom: 0.5em;
   font-size: 0.8em;
-}
-
-.sub_article_h2 {
-  margin-bottom: 1em;
 }
 
 .h2_span {
@@ -255,7 +248,9 @@ section {
 }
 
 .person_article,
-.editors {
+.editors,
+.sub_article_div,
+.footer_h {
   margin: 30px;
 }
 
@@ -303,10 +298,6 @@ section {
 
 .footer {
   padding: 50px;
-}
-
-.footer_h {
-  margin: 30px;
 }
 
 .footer ul {
